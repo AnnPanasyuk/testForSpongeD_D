@@ -1,0 +1,30 @@
+$black: #000000;
+$turquoise: #20aa97;
+$gray: #585858;
+.page {
+  position: relative;
+  .page__circle {
+    width: 288px;
+    height: 368px;
+    background: url("../img/ellipse-3.png") no-repeat 100% 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+    @media (min-width: 320px) and (max-width: 768px) {
+      background: url("../img/ellipse-3-480.png") no-repeat 100% 100%;
+      width: 203px;
+      height: 260px;
+    }
+  }
+}
+.container {
+  width: 1550px;
+  margin: 0 auto;
+  @media screen and (max-width: 1920px) {
+    width: 80.63%;
+  }
+}
+a {
+  cursor: pointer;
+}

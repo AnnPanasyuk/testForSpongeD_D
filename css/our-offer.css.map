@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,UAAW;EACT,MAAM,EAAE,QAAQ;EAChB,aAAG;IACD,KAAK,EAAE,OAAO;IACd,WAAW,EAAE,kCAAkC;IAC/C,SAAS,EAAE,IAAI;IACf,WAAW,EAAE,GAAG;IAChB,WAAW,EAAE,IAAI;IACjB,cAAc,EAAE,MAAM;IACtB,kBAAK;MACH,KAAK,EAAE,OAAO;MACd,cAAc,EAAE,MAAM",
+"sources": ["our-offer.scss"],
+"names": [],
+"file": "our-offer.css"
+}
